@@ -1,0 +1,30 @@
+article {
+  background-color: gray;
+  padding: 10px;
+}
+
+h1 {
+  background-color: gray;
+  color: white;
+}
+
+h2 {
+  background-color: gray;
+}
+
+p {
+  color: white;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+body {
+  background-color: black;
+}
+
+footer {
+  background-color: red;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
