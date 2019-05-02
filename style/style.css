@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   width: auto;
   background-color: gray;
-  color: white;
+  color: Blue;
 }
 
 h2 {
@@ -27,13 +27,13 @@ p {
 
 body {
   width: auto;
-  background-color: black;
+  background-color: gray;
 }
 
 footer {
   width: auto;
-  background-color: red;
+  background-color: lightgray;
   padding: 10px;
   text-align: center;
-  color: white;
+  color: black;
 }
