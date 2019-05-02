@@ -1,28 +1,37 @@
 article {
+  text-align: center;
+  width: auto;
   background-color: gray;
   padding: 10px;
 }
 
 h1 {
+  text-align: center;
+  width: auto;
   background-color: gray;
   color: white;
 }
 
 h2 {
+  text-align: center;
+  width: auto;
   background-color: gray;
 }
 
 p {
+  width: auto;
   color: white;
   font-family: verdana;
   font-size: 20px;
 }
 
 body {
+  width: auto;
   background-color: black;
 }
 
 footer {
+  width: auto;
   background-color: red;
   padding: 10px;
   text-align: center;
